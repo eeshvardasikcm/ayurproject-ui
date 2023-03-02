@@ -51,3 +51,19 @@ technology that I wouldn't mind
 working on for use in my
 portfolio.
 
+after some short of time thinking
+about it, I realized that the
+uses that I would have for Kepler
+would not be desirable by
+any of the technologies
+originators.
+
+this Kepler UI that I am planning
+on creating, can be used with any
+touch screen app to help
+reduce the stresses of
+repetitive and long-term
+use of touch screen devices,
+especially where the software on those
+devices require a large amount of
+touch interaction.
