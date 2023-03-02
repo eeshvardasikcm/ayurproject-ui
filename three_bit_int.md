@@ -1,4 +1,4 @@
-# eeshvardasikcm three bit integer theory interfaced with eeshvardasikcm Kepler UI
+# eeshvardasikcm three bit integer theory interface
 
 already I have created a three bit
 integer theory that represents
@@ -12,14 +12,15 @@ that it felt like my mind was
 required to do for different types of
 ways to touch a touch screen device.
 
-this Kepler UI interface is intended to
+this UI interface is intended to
 be a way that an app can moderate
 the users input according to the
-Kepler algorithm that is used to
-moderate the use of energy in
-sustainability practices.
+feedback from a modified 
+cpu monitoring algorithm that
+is used to moderate the use of
+energy in sustainability practices.
 
-I first was envisioning this Kepler
+I first was envisioning this
 probe technology to be usable in
 my mech Commerce game.
 in order to use the touch screen
@@ -51,14 +52,18 @@ technology that I wouldn't mind
 working on for use in my
 portfolio.
 
+Then, I noticed Kepler is not
+written in C++.
+
 after some short of time thinking
 about it, I realized that the
-uses that I would have for Kepler
+uses that I would have for
+a cpu monitoring technology 
 would not be desirable by
 any of the technologies
 originators.
 
-this Kepler UI that I am planning
+this AyurProject UI that I am planning
 on creating, can be used with any
 touch screen app to help
 reduce the stresses of
@@ -69,12 +74,12 @@ devices require a large amount of
 touch interaction.
 
 The concept is to rewire the
-Kepler probe to track each time
+cpu probe to track each time
 the screen is touched and what
 type of touch It is.
 
 then some modifications to the
-intelligence inside the Kepler
+intelligence inside the probe 
 system will help me determine
 some values that would be good
 for regulating use of
