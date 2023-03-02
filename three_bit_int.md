@@ -67,3 +67,16 @@ use of touch screen devices,
 especially where the software on those
 devices require a large amount of
 touch interaction.
+
+The concept is to rewire the
+Kepler probe to track each time
+the screen is touched and what
+type of touch It is.
+
+then some modifications to the
+intelligence inside the Kepler
+system will help me determine
+some values that would be good
+for regulating use of
+my AyurProject app and
+use of my mech Commerce game.
